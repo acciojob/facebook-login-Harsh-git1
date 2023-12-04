@@ -1,1 +1,9 @@
 /*  your css code here. If applicable */
+*{
+	background-color: #f6f6f6;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height : 100vh;
+	
+}
