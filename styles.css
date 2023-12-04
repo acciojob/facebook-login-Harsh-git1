@@ -29,7 +29,7 @@
     flex-direction: column;
     gap: 10px;
 }
-.form{
+form{
     display: flex;
     flex-direction: column;
     gap: 15px;
@@ -61,34 +61,4 @@ a{
 p{
     text-align: center;
     font-weight: 540;
-}
-#email , #password{
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    padding : 10px;
-}
-
-button{
-    background-color: #1877f2;
-    border-radius: 5px;
-    padding: 10px 20px;
-    color: white;
-}
-
-a{
-    text-decoration: none;
-    color: #1877f2;
-
-}
-
-#newacc{
-    background-color: #42b72a;
-}
-
-h6{
-    text-align: center;
-}
-
-p{
-	
 }
